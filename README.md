@@ -1,3 +1,3 @@
 # ejemplo
-opcional
-buenas
+<p> opcional </p>
+<t>buenas</t>
